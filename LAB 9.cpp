@@ -118,10 +118,10 @@ int main(){
 			case 'B':
 			case 'b':
 				cout<<"\n\t\t\t\t\t For Breakfast We Have following Menu:";
-				cout<<"\n\t\t\t\t\t 1 for Anda Paratha (RS.40)";
-				cout<<"\n\t\t\t\t\t 2 for Nan Channy (RS.60)";
-				cout<<"\n\t\t\t\t\t 3 for Siri Paye (RS.150)";
-				cout<<"\n\t\t\t\t\t 4 for Tea (RS.15)"<<endl;
+				cout<<"\n\t\t\t\t\t  1 for Anda Paratha (RS.40)";
+				cout<<"\n\t\t\t\t\t  2 for Nan Channy (RS.60)";
+				cout<<"\n\t\t\t\t\t  3 for Siri Paye (RS.150)";
+				cout<<"\n\t\t\t\t\t  4 for Tea (RS.15)"<<endl;
 				cin>>subMenu;
 				switch(subMenu){
 					case 1:
